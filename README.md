@@ -1,4 +1,3 @@
-@@ -1,4 +1,10 @@
 # A-Tensor-Network-Based-Decision-Diagram
 See https://github.com/Veriqc/TDD for where the TDD package came from.
 
