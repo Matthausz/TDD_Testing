@@ -1,4 +1,6 @@
 # A-Tensor-Network-Based-Decision-Diagram
+taken from https://github.com/Veriqc/TDD_C.
+
 ## Overview
 Decision diagrams have been used in the simulation and equivalence checking of quantum circuits. Inspired by the efficiency and flexibility of Tensor Networks. A tensor network-based decision diagram has been proposed at https://dl.acm.org/doi/10.1145/3514355. This repository gives a proof-of-concept implementation of the Tensor Decision Diagram(TDD) using Python3. 
 Part of the benchmarks is coming from https://github.com/iic-jku/qmap/tree/master/examples. For an efficient C++ version of TDD, please see https://github.com/Veriqc/TDD_C. A Local Invertible Map version of TDD (LIMTDD) can be seen at https://github.com/Veriqc/LimTDD/.
