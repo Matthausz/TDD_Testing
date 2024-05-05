@@ -1,0 +1,12 @@
+Circuit Name,Time (s),Number of Qubits,Number of Gates,Number of Controlled Gates,Transpile Time
+qft_17.qasm,0.034327030181884766,17,154,136,2.7211170196533203
+Circuit Name,Time (s),Number of Qubits,Number of Gates,Number of Controlled Gates,Transpile Time
+qft_18.qasm,0.08841180801391602,18,172,153,7.904753923416138
+Circuit Name,Time (s),Number of Qubits,Number of Gates,Number of Controlled Gates,Transpile Time
+qft_19.qasm,0.09071588516235352,19,191,171,8.442141056060791
+Circuit Name,Time (s),Number of Qubits,Number of Gates,Number of Controlled Gates,Transpile Time
+qft_20.qasm,0.3218398094177246,20,211,190,15.792512893676758
+Circuit Name,Time (s),Number of Qubits,Number of Gates,Number of Controlled Gates,Transpile Time
+qft_21.qasm,0.3099970817565918,21,232,210,24.74652600288391
+Circuit Name,Time (s),Number of Qubits,Number of Gates,Number of Controlled Gates,Transpile Time
+qft_22.qasm,0.7557930946350098,22,254,231,70.54468822479248
